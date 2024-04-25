@@ -1,1 +1,118 @@
-| GENERAL|000 Warning ! Incoming S.A.M.001 Warning ! Incoming A.T.A.M002 Enemy Fighter Launched003 Enemy Fighter Destroyed004 MOTHERSHIP Destroyed005 Defence Target Destroyed006 Mission Target Destroyed007 You have failed your mission008 You Have Run Out Of Time009 Parachute Drop Detected010 Enemy Defences Down011 Strategic Target Destroyed012 Strategic Command Overrun013 DEFENCES ACTIVE !014 DOCKING SUCCESSFUL015 MISSION COMPLETED016 RETURN TO MOTHERSHIP017 G-A-M-E    O-V-E-R018 Mission Target Destroyed019 Secret Mission Target Destroyed028 High Scores|| SHIP TYPES|020 StarFighter021 Mothership022 Stratoliner023 Fighter024 Satellite047 Transport048 Tank025 Attacking026 Patrol027 Formation with030 Must be Destroyed031 Must be Defended046 Immaterial049 Multiple Targets|| BONUS|032 Parachute Collected033 Energy Award034 Wingpod Added035 EXTRA LIFE036 MEGA-SHIP AWARDED037 Megabombs Collected038 Beam Lasers Collected039 MultiMissile Collected040 Mines Collected041 UPGRADE042 DAMAGED043 ENGINE044 CONTROL045 SHIELDS063 E.C.M's Collected062 Scanners are Free067 E.C.M Fired068 Remaining029 No E.C.M's !|| FLIGHT CONTROL|050 Enemy Vessel Has Landed051 Friendly Vessel Has Landed052 Request termination of leader053 WARNING ! Friendly Fire !054 Warning ! Mothership shields low055 Warning ! Mothership under attack056 MAYDAY! MAYDAY! Request assistance057 Formation under fire !058 UNDER FIRE - Breaking Formation059 Going in to Defend Formation060 Enemy Radar Lock Detected061 Request to join formation064 I.M :069 Strategic Command065 Lost In Duty !|| MISC|070 Cadet071 Corporal072 Captain073 Commander074 Lives ...075 Welcome to Star Fighter076 Designed & Written by Fednet077 Produced by Krisalis & Studio3DO078 - Press start to play -|| WEAPONS|080 Laser081 A_T_G082 A_T_A083 MegaBomb084 Beam Laser085 Multi Missile086 Mines087 E.C.M|| CAMERA|090 Player091 Team092 Enemy093 Weapon094 Vehicle095 Available096 No097 View098 Tracking099 Flyby100 View From#
+| GENERAL
+|
+000 Warning ! Incoming S.A.M.
+001 Warning ! Incoming A.T.A.M
+002 Enemy Fighter Launched
+003 Enemy Fighter Destroyed
+004 MOTHERSHIP Destroyed
+005 Defence Target Destroyed
+006 Mission Target Destroyed
+007 You have failed your mission
+008 You Have Run Out Of Time
+009 Parachute Drop Detected
+010 Enemy Defences Down
+011 Strategic Target Destroyed
+012 Strategic Command Overrun
+013 DEFENCES ACTIVE !
+014 DOCKING SUCCESSFUL
+015 MISSION COMPLETED
+016 RETURN TO MOTHERSHIP
+017 G-A-M-E    O-V-E-R
+018 Mission Target Destroyed
+019 Secret Mission Target Destroyed
+028 High Scores
+|
+| SHIP TYPES
+|
+020 StarFighter
+021 Mothership
+022 Stratoliner
+023 Fighter
+024 Satellite
+047 Transport
+048 Tank
+025 Attacking
+026 Patrol
+027 Formation with
+030 Must be Destroyed
+031 Must be Defended
+046 Immaterial
+049 Multiple Targets
+|
+| BONUS
+|
+032 Parachute Collected
+033 Energy Award
+034 Wingpod Added
+035 EXTRA LIFE
+036 MEGA-SHIP AWARDED
+037 Megabombs Collected
+038 Beam Lasers Collected
+039 MultiMissile Collected
+040 Mines Collected
+041 UPGRADE
+042 DAMAGED
+043 ENGINE
+044 CONTROL
+045 SHIELDS
+063 E.C.M's Collected
+062 Scanners are Free
+067 E.C.M Fired
+068 Remaining
+029 No E.C.M's !
+|
+| FLIGHT CONTROL
+|
+050 Enemy Vessel Has Landed
+051 Friendly Vessel Has Landed
+052 Request termination of leader
+053 WARNING ! Friendly Fire !
+054 Warning ! Mothership shields low
+055 Warning ! Mothership under attack
+056 MAYDAY! MAYDAY! Request assistance
+057 Formation under fire !
+058 UNDER FIRE - Breaking Formation
+059 Going in to Defend Formation
+060 Enemy Radar Lock Detected
+061 Request to join formation
+064 I.M :
+069 Strategic Command
+065 Lost In Duty !
+|
+| MISC
+|
+070 Cadet
+071 Corporal
+072 Captain
+073 Commander
+074 Lives ...
+075 Welcome to Star Fighter
+076 Designed & Written by Fednet
+077 Produced by Krisalis & Studio3DO
+078 - Press start to play -
+|
+| WEAPONS
+|
+080 Laser
+081 A_T_G
+082 A_T_A
+083 MegaBomb
+084 Beam Laser
+085 Multi Missile
+086 Mines
+087 E.C.M
+|
+| CAMERA
+|
+090 Player
+091 Team
+092 Enemy
+093 Weapon
+094 Vehicle
+095 Available
+096 No
+097 View
+098 Tracking
+099 Flyby
+100 View From
+#
